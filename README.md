@@ -46,6 +46,14 @@ The Kiro Power lives in the `kiro-power/` directory. In Kiro, open the Powers pa
 
 If sign-in does not start from the Power, add the same shared address in Kiro's MCP settings and use the Connect or authentication prompt. See `kiro-power/README.md`.
 
+## Official MCP Registry
+
+The remote server is listed as `ai.getprecision/precision-ai-os` in the Official MCP Registry. `server.json` at the repository root is the listing record. Version 1.0.1 in that file adds this repository and icon URLs and is not published until a later official-registry update.
+
+## Cline and LobeHub
+
+Remote setup steps for Cline are in `llms-install.md`. A LobeHub marketplace manifest is included as `lhm.plugin.json`. Neither file is a submission by itself.
+
 ## Product and legal
 
 - Product and setup: [getprecision.ai/mcp](https://getprecision.ai/mcp?utm_source=github&utm_medium=repo&utm_campaign=marketplace)

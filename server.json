@@ -1,0 +1,35 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ai.getprecision/precision-ai-os",
+  "title": "Precision AI OS",
+  "description": "Set up and run your firm's Precision AI agents, skills and routines from any MCP client.",
+  "version": "1.0.1",
+  "websiteUrl": "https://getprecision.ai/mcp",
+  "repository": {
+    "url": "https://github.com/precision-ai-os/precision-ai-os-mcp",
+    "source": "github",
+    "id": "1463081391"
+  },
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/precision-ai-os/precision-ai-os-mcp/main/assets/precision-400.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "400x400"
+      ]
+    },
+    {
+      "src": "https://raw.githubusercontent.com/precision-ai-os/precision-ai-os-mcp/main/assets/precision-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.getprecision.ai/v1/mcp"
+    }
+  ]
+}

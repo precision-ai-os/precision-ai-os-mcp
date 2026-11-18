@@ -1,0 +1,21 @@
+{
+  "identifier": "precision-ai-os",
+  "name": "Precision AI OS",
+  "version": "1.0.0",
+  "author": "Precision AI LLC",
+  "authorUrl": "https://github.com/precision-ai-os",
+  "category": "productivity",
+  "description": "Set up and run your firm's Precision AI agents, skills and routines from any MCP client.",
+  "homepage": "https://getprecision.ai/mcp?utm_source=lobehub&utm_medium=listing&utm_campaign=marketplace",
+  "cloudEndpoint": "https://mcp.getprecision.ai/v1/mcp",
+  "icon": "https://raw.githubusercontent.com/precision-ai-os/precision-ai-os-mcp/main/assets/precision-400.png",
+  "tags": [
+    "mcp",
+    "agents",
+    "skills",
+    "routines",
+    "accounting",
+    "cpa",
+    "oauth"
+  ]
+}
