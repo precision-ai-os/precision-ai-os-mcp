@@ -1,0 +1,18 @@
+{
+  "name": "precision-ai-os-mcp",
+  "owner": {
+    "name": "Precision AI LLC",
+    "email": "hello@getprecision.ai"
+  },
+  "metadata": {
+    "description": "Set up and run your firm's Precision AI agents, skills and routines from any MCP client.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "precision-ai-os",
+      "source": "cursor-plugin",
+      "description": "Set up and run your firm's Precision AI agents, skills and routines from any MCP client."
+    }
+  ]
+}

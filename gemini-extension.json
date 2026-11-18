@@ -1,0 +1,12 @@
+{
+  "name": "precision-ai-os",
+  "version": "1.0.0",
+  "description": "Set up and run your firm's Precision AI agents, skills and routines from any MCP client.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "precision": {
+      "url": "https://mcp.getprecision.ai/v1/mcp",
+      "type": "http"
+    }
+  }
+}

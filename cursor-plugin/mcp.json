@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "precision": {
+      "url": "https://mcp.getprecision.ai/v1/mcp"
+    }
+  }
+}

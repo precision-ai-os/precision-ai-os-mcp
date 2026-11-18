@@ -1,0 +1,23 @@
+{
+  "name": "precision-ai-os",
+  "version": "1.0.0",
+  "description": "Set up and run your firm's Precision AI agents, skills and routines from any MCP client.",
+  "author": {
+    "name": "Precision AI LLC",
+    "email": "hello@getprecision.ai"
+  },
+  "homepage": "https://getprecision.ai/mcp?utm_source=cursormarketplace&utm_medium=listing&utm_campaign=marketplace",
+  "license": "MIT",
+  "keywords": [
+    "precision",
+    "agents",
+    "skills",
+    "routines",
+    "mcp",
+    "accounting",
+    "cpa",
+    "professional-services"
+  ],
+  "logo": "assets/precision.svg",
+  "repository": "https://github.com/precision-ai-os/precision-ai-os-mcp"
+}
